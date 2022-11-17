@@ -18,6 +18,7 @@ Nesta foi utilizada a biblioteca ABCg para construção da inteface. A atividade
 ## Página web
 
 Essa atividade está disponível em uma página web com a aplicação rodando em WebAssembly:
+https://fabioladeiro.github.io/abcg-comp-grafica-atividade3/public/atividade3.html
 
 ## Requerimentos
 
